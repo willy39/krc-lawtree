@@ -4765,32 +4765,6 @@
   "flags": []
  },
  {
-  "id": "ordin:2166876",
-  "source": "ordin",
-  "sourceId": "2166876",
-  "title": "고성군 대한적십자사 활동 지원에 관한 조례",
-  "kind": "조례",
-  "level": "LO_ORDINANCE",
-  "primaryField": "ETC",
-  "secondaryFields": [],
-  "parentId": "law:대한적십자사 조직법",
-  "agency": "강원특별자치도 고성군",
-  "region": {
-   "sido": "강원특별자치도",
-   "sigungu": "고성군",
-   "code": "51",
-   "type": "sigungu"
-  },
-  "bundle": "redcross",
-  "promulgatedAt": "2020-05-12",
-  "effectiveAt": "2020-05-12",
-  "revisionType": "일부개정",
-  "url": "https://www.law.go.kr/LSW/ordinInfoP.do?ordinSeq=1492613",
-  "isCore": false,
-  "caseCount": 0,
-  "flags": []
- },
- {
   "id": "ordin:2172648",
   "source": "ordin",
   "sourceId": "2172648",
@@ -4812,6 +4786,32 @@
   "effectiveAt": "2017-03-30",
   "revisionType": "제정",
   "url": "https://www.law.go.kr/LSW/ordinInfoP.do?ordinSeq=1282935",
+  "isCore": false,
+  "caseCount": 0,
+  "flags": []
+ },
+ {
+  "id": "ordin:2166876",
+  "source": "ordin",
+  "sourceId": "2166876",
+  "title": "고성군 대한적십자사 활동 지원에 관한 조례",
+  "kind": "조례",
+  "level": "LO_ORDINANCE",
+  "primaryField": "ETC",
+  "secondaryFields": [],
+  "parentId": "law:대한적십자사 조직법",
+  "agency": "강원특별자치도 고성군",
+  "region": {
+   "sido": "강원특별자치도",
+   "sigungu": "고성군",
+   "code": "51",
+   "type": "sigungu"
+  },
+  "bundle": "redcross",
+  "promulgatedAt": "2020-05-12",
+  "effectiveAt": "2020-05-12",
+  "revisionType": "일부개정",
+  "url": "https://www.law.go.kr/LSW/ordinInfoP.do?ordinSeq=1492613",
   "isCore": false,
   "caseCount": 0,
   "flags": []
